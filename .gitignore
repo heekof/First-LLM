@@ -1,3 +1,4 @@
 cc.en.300.bin
 cc.en.300.bin.gz
 fasttext_model.bin
+.DS_Store
